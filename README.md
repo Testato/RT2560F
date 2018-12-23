@@ -8,4 +8,4 @@ thanks to a disappeared german page, but present on wayback machine, i discover 
 The founded info was for the Amilo M7400 notebook, but i tested it on L7300 notebook, that have a different WiFi module, WMIR-103G with an RT2560F chip.
 
 The procedure remain the same of the german page, I attached the original one and an english translated page, plus some photo of the L7300 WiFi board that I tested.
-
+On the L7300 the LED of the WiFi is always off, even during normal operation of the WiFi.
